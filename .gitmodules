@@ -1,0 +1,4 @@
+[submodule "l10n-canada"]
+	path = l10n-canada
+	url = https://github.com/savoirfairelinux/l10n-canada
+	branch = 10.0
